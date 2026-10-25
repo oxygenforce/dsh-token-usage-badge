@@ -1,6 +1,6 @@
 {
   "name": "dsh-token-usage-badge",
-  "version": "1.1.12",
+  "version": "1.1.13",
   "description": "在每条回答下方显示本轮 Token 用量、回答耗时与会话累计 Token / Per-reply token usage, answer duration, and session total for DeepSeek Harness",
   "license": "MIT",
   "keywords": [
